@@ -33,15 +33,14 @@ This module has no dedicated maintainers.
 [[id:01cffea4-3329-45e2-a892-95a384ab2338][Enable this module in your ~doom!~ block.]]
 
 This module requires:
-- [[https://crystal-lang.org/install/][The crystal compiler]]
-- [[https://github.com/crystal-community/icr][ICR]], for the REPL
+- [[https://crystal-lang.org/install/][The Crystal compiler and REPL]]
 
 ** Crystal
 - MacOS: ~$ brew install crystal~
 - Arch Linux: ~$ pacman -S crystal shards~
 
 ** ICR (REPL)
-[[https://github.com/crystal-community/icr#installation][Installation instructions]].
+Currently ICR is compiled together with Crystal and can be used easily with the command: ~$ crystal i~
 
 * TODO Usage
 #+begin_quote
